@@ -1,0 +1,1 @@
+<div class="bx-def-padding bx-def-color-bg-block"><?php echo $a['content'];?></div>
